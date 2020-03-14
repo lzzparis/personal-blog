@@ -1,0 +1,31 @@
+{
+  "projects": {
+    "default": "personal-blog-5d88a",
+    "master": "personal-blog-5d88a",
+    "prod": "personal-blog-5d88a"
+  },
+  "ci": {
+    "createConfig": {
+      "master": {
+        "env": "staging",
+        "firebase": {
+          "apiKey": "AIzaSyBf3vHr7jLxp3AGQAfz4svTbwZVeu0T50Q",
+          "authDomain": "personal-blog-5d88a.firebaseapp.com",
+          "databaseURL": "https://personal-blog-5d88a.firebaseio.com",
+          "projectId": "personal-blog-5d88a",
+          "storageBucket": "personal-blog-5d88a.appspot.com"
+        }
+      },
+      "prod": {
+        "env": "production",
+        "firebase": {
+          "apiKey": "AIzaSyBf3vHr7jLxp3AGQAfz4svTbwZVeu0T50Q",
+          "authDomain": "personal-blog-5d88a.firebaseapp.com",
+          "databaseURL": "https://personal-blog-5d88a.firebaseio.com",
+          "projectId": "personal-blog-5d88a",
+          "storageBucket": "personal-blog-5d88a.appspot.com"
+        }
+      }
+    }
+  }
+}

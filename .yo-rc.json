@@ -1,0 +1,13 @@
+{
+  "generator-react-firebase": {
+    "promptValues": {
+      "githubUser": "lzzparis",
+      "firebaseName": "personal-blog-5d88a",
+      "firebaseKey": "AIzaSyBf3vHr7jLxp3AGQAfz4svTbwZVeu0T50Q",
+      "includeRedux": true,
+      "includeFirestore": false,
+      "otherFeatures": [],
+      "deployTo": "firebase"
+    }
+  }
+}
